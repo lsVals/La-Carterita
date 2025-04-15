@@ -21,7 +21,7 @@ h1 {
 /* LOGO */
 .logo {
     max-width: 300px;
-    height: auto;
+    height: 80%;
     display: block;
     margin: 0 auto;
     transition: transform 0.3s ease, opacity 0.3s ease;
@@ -30,6 +30,12 @@ h1 {
 .logo:hover {
     transform: scale(1.05);
     opacity: 0.9;
+}
+
+header {
+    background-colors: #007bff;
+    text-align: center;
+    padding: 20px 0;
 }
 
 /* PRODUCTOS */
