@@ -20,6 +20,7 @@ const productos = [
   { id: "besos", nombre: "Besos", precio: 8, imagen: "imgbesos.jpeg", categoria: "clasicos" },
   { id: "cuernito", nombre: "Cuernito relleno de mantequilla", precio: 8, imagen: "imgcuernito.jpeg", categoria: "clasicos" },
   { id: "gloria", nombre: "Gloria rellena de mantequilla", precio: 8, imagen: "imggloria.jpeg", categoria: "clasicos" },
+  { id: "concha-queso", nombre: "Concha rellena de queso", precio: 12, imagen: "imgconchaqueso.jpeg", categoria: "clasicos" },
   { id: "keke", nombre: "Keke", precio: 8, imagen: "imgkeke.jpeg", categoria: "clasicos" },
   { id: "pan-elote", nombre: "Pan de elote (Cupcake)", precio: 15, imagen: "imgpan_elote.jpeg", categoria: "especiales" },
   { id: "bisquete", nombre: "Bisquete", precio: 8, imagen: "imgbisquete.jpeg", categoria: "clasicos" },
