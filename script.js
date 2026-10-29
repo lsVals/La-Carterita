@@ -33,8 +33,8 @@ const productos = [
   { id: "canilla", nombre: "Canilla", precio: 8, imagen: "imgcanilla.jpg", categoria: "especiales" },
 
   // --- Productos de temporada: precios de ejemplo, AJÚSTALOS a los reales ---
-  { id: "pan-muerto-artesanal", nombre: "Pan de Muerto Artesanal", precio: 35, imagen: "panmuertoartesanal.jpg", categoria: "temporada", temporada: { desdeMes: 10, desdeDia: 25, hastaMes: 11, hastaDia: 3 } },
-  { id: "pan-muerto-gourmet", nombre: "Pan de Muerto Gourmet", precio: 55, imagen: "imgpanmuertogourmet.jpg", categoria: "temporada", temporada: { desdeMes: 10, desdeDia: 25, hastaMes: 11, hastaDia: 3 } },
+  { id: "pan-muerto-artesanal", nombre: "Pan de Muerto Artesanal", precio: 35, imagen: "imgpandemuertoArtesanal.jpeg", categoria: "temporada", temporada: { desdeMes: 10, desdeDia: 25, hastaMes: 11, hastaDia: 3 } },
+  { id: "pan-muerto-gourmet", nombre: "Pan de Muerto Gourmet", precio: 35, imagen: "imgpandemuertoGourmet.jpeg", categoria: "temporada", temporada: { desdeMes: 10, desdeDia: 25, hastaMes: 11, hastaDia: 3 } },
   { id: "rosca-reyes-artesanal", nombre: "Rosca de Reyes Artesanal", precio: 120, imagen: "imgroscareyesartesanal.jpg", categoria: "temporada", temporada: { desdeMes: 1, desdeDia: 2, hastaMes: 1, hastaDia: 7 } },
   { id: "rosca-reyes-gourmet", nombre: "Rosca de Reyes Gourmet", precio: 180, imagen: "imgroscareyesgourmet.jpg", categoria: "temporada", temporada: { desdeMes: 1, desdeDia: 2, hastaMes: 1, hastaDia: 7 } },
 ];
